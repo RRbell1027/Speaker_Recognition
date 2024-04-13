@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+/model_training/source/*
+/model_training/data/*
+/model_training/logs/*
+/model_training/models/*
+/sample/data/
+/sample/MediaPlayer/
