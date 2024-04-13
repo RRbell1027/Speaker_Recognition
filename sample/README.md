@@ -15,4 +15,4 @@ py 檔位在 `./unpack/` 中:
 * K-Lite 編譯器 https://codecguide.com/download_k-lite_codec_pack_basic.htm
 
 展示結果如下：
-![](.\image\result.png)
+![](https://github.com/RRbell1027/Speaker_Recognition/blob/main/sample/image/result.png)
